@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imgkpal
+- 👋 Hi, I’m Gautam. I am a PhD student and I am working in Semiconductor materials
 - 👀 I’m interested in Semiconductor nano-materials.
 - 🌱 I’m currently a PhD student in Nano-materials at National Tsing Hua University. 
 - 💞️ I’m looking to collaborate on creating an website.
